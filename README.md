@@ -2,27 +2,28 @@
 
 <p align="left">
 💻 Front-End Developer from Brazil 🇧🇷 <br>
-🎯 Specialist in CSS & HTML <br>
-⚡ Learning Back-End & improving React <br>
-🧠 Passion for clean design + hacker aesthetics
+🎯 Strong in HTML & CSS <br>
+⚡ Learning Back-End and improving React <br>
+🤖 Studying C for robotics applications <br>
+🏆 Selected 3 times in a government program (SECTI) <br>
+🚀 Focused on evolution and real projects
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geronimoss4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimoss4&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geronimoss4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimoss4&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
 
 <div align="left">
 
-  <!-- SUA ORDEM DE HABILIDADE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
   <img width="10"/>
 
@@ -53,6 +54,7 @@
 
 <br clear="both">
 
+<!-- SNAKE (pode demorar pra aparecer, precisa ativar no GitHub Actions) -->
 <img src="https://raw.githubusercontent.com/geronimoss4/geronimoss4/output/snake.svg" />
 
 ###
