@@ -2,23 +2,20 @@
 
 <p align="left">
 💻 Front-End Developer from Brazil 🇧🇷 <br>
-🎯 Strong in HTML & CSS <br>
-⚡ Learning Back-End and improving React <br>
-🤖 Studying C for robotics applications <br>
-🏆 Selected 3 times in a government program (SECTI) <br>
-🚀 Focused on evolution and real projects
+🎯 Focused on clean design and performance <br>
+⚡ Currently learning Back-End and React
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geronimoss4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimoss4&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=geronimoss4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geronimoss4&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" height="150" src="https://media.tenor.com/7S0k6kWb8PAAAAAC/michael-jackson.gif" />
 
 ###
 
@@ -54,7 +51,17 @@
 
 <br clear="both">
 
-<!-- SNAKE (pode demorar pra aparecer, precisa ativar no GitHub Actions) -->
+---
+
+### 🧠 About Me
+
+- 💻 I'm a developer focused on **HTML & CSS**
+- 🤖 Studying **C for robotics applications**
+- 🏆 Selected **3 times** in a government program (SECTI)
+- 🚀 Always improving my skills and building projects
+
+---
+
 <img src="https://raw.githubusercontent.com/geronimoss4/geronimoss4/output/snake.svg" />
 
 ###
